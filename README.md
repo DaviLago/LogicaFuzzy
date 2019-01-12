@@ -1,1 +1,0 @@
-Lógica Fuzzy em C
